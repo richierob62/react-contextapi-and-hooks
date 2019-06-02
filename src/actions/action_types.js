@@ -1,0 +1,9 @@
+export default {
+  PET_DOG: 'PET_DOG',
+  FEED_DOG: 'FEED_DOG',
+  CALL_DOG: 'CALL_DOG',
+
+  PET_CAT: 'PET_CAT',
+  FEED_CAT: 'FEED_CAT',
+  CALL_CAT: 'CALL_CAT'
+}
